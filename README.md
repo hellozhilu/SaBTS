@@ -1,3 +1,6 @@
+# SaBTS
+Source codes for the article: "Stagnation-aware breakout tabu search for the minimum conductance graph partitioning problem"
+
 Zhi Lu, Jin-Kao Hao and Yi Zhou. "Stagnation-aware breakout tabu search for the Minimum Conductance Graph Partitioning Problem"
 
 The source codes of our proposed Greedy+SaBTS and Metis+SaBTS algorithm, along with the reimplemented StS-AMA algorithm are available in here. 
