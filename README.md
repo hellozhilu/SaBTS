@@ -29,9 +29,10 @@ StS-AMA:
 ./${ExecuteFile}" ${InstanceFile} ${DataSet} ${RunTime} ${NumberRepeats}
 ```
 
-// For example to run Greedy+SaBTS algorithm
-// Given an instance, e.g., karate.graph
 ```
+// For example, to run Greedy+SaBTS algorithm
+// Given an instance, e.g., karate.graph
+
 InstanceFile="karate.graph"
 DataSet="test"
 RunTime=3600
